@@ -1,6 +1,6 @@
 # 🎵 Spotify Song Popularity Prediction
 
-This project aims to enhance Spotify’s recommender system by predicting which songs are likely to become hits, using audio features and metadata. It was completed as part of the INFO 648 – Business Data Analytics course at VCU.
+This project aims to enhance Spotify’s recommender system by predicting which songs are likely to become hits, using audio features and metadata. 
 
 ## 📁 Project Structure
 
