@@ -56,15 +56,6 @@ This project aims to enhance Spotify’s recommender system by predicting which 
 
 ---
 
-## 👥 Team
-
-- Jesin Kandathy Joy *(Profit Driven Model Evaluation)*
-- Gauri V Nair *(Data Preprocessing, Feature Engineering)*
-- Riddhi Rungta *(Clustering and Valence Impact)*
-- Sarath Sabu *(Predictive Modeling)*
-
----
-
 ## 📌 Note
 
 This was a university project and is not affiliated with Spotify Inc. All data was publicly available and used for educational purposes only.
